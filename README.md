@@ -1,2 +1,2 @@
 # merncommerce
-React + Express + MongoDB
+React + NodeJS + Express + MongoDB
